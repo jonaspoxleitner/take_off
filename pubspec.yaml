@@ -1,7 +1,6 @@
 name: take_off
 description: A new navigation package for Flutter.
 version: 0.0.1
-author: Jonas Poxleitner<private@jonaspoxleitner.com>
 homepage: https://github.com/jonaspoxleitner/take_off.git
 
 environment:
